@@ -1,5 +1,3 @@
-Este trabajo se realizó en conjunto (5 personas en total).
-
 Los datos están relacionados con campañas de marketing directo (llamadas telefónicas) de una institución bancaria portuguesa. El objetivo es predecir si el cliente suscribirá (sí/no) un depósito a plazo (variable y) mediante el análisis de los features y modelos predictivos.
 
 Información de las variables:
